@@ -20,9 +20,9 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/18.08.0/src/libkdegames-18.08.0.tar.xz",
-                    "sha256": "e0bca02674c5e961db17e8225affc689c437ab78eabcd620a1e38ee7b1d583ca"
-                } 
+                    "url": "https://download.kde.org/stable/applications/18.12.0/src/libkdegames-18.12.0.tar.xz",
+                    "sha256": "7b414075f135b93e1e332bbadf207f81c96c78d448b1f254d6015fc988052006"
+                }
             ]
         },
         {
@@ -41,8 +41,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/18.08.0/src/kbounce-18.08.0.tar.xz", 
-                    "sha256": "d5febbc2d1410e8cc7155410e1429bb5aa13a01fc0aadb6a9a82a61b71a70774" 
+                    "url": "https://download.kde.org/stable/applications/18.12.0/src/kbounce-18.12.0.tar.xz",
+                    "sha256": "88ac2c263e0f3604be06197ed74799e8c047cf0ec8ca5a89e509dda43285b9e4"
                 },
                 {
                     "type": "file",
