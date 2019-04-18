@@ -1,7 +1,7 @@
 {
     "id": "org.kde.kbounce",
     "runtime": "org.kde.Platform",
-    "runtime-version": "5.11",
+    "runtime-version": "5.12",
     "sdk": "org.kde.Sdk",
     "command": "kbounce",
     "rename-icon": "kbounce",
@@ -20,8 +20,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/18.12.0/src/libkdegames-18.12.0.tar.xz",
-                    "sha256": "7b414075f135b93e1e332bbadf207f81c96c78d448b1f254d6015fc988052006"
+                    "url": "https://download.kde.org/stable/applications/19.04.0/src/libkdegames-19.04.0.tar.xz",
+                    "sha256": "2965e4a313609f6408becb13e54e26bfe14b37b58e7737e051129896f6e8bcd3"
                 }
             ]
         },
@@ -31,16 +31,9 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/18.12.0/src/kbounce-18.12.0.tar.xz",
-                    "sha256": "88ac2c263e0f3604be06197ed74799e8c047cf0ec8ca5a89e509dda43285b9e4"
-                },
-                {
-                    "type": "file",
-                    "path": "org.kde.kbounce.appdata.xml"
+                    "url": "https://download.kde.org/stable/applications/19.04.0/src/kbounce-19.04.0.tar.xz",
+                    "sha256": "cd28d777db8ff1dc1437fb6456c2fdfe8b9005c0cea3ce05337fbf425803834f"
                 }
-            ],
-            "post-install": [
-                "install -D -m 644 org.kde.kbounce.appdata.xml /app/share/appdata/org.kde.kbounce.appdata.xml"
             ]
         }
     ]
