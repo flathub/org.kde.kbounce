@@ -16,11 +16,11 @@
         {
             "name": "libkdegames",
             "buildsystem": "cmake-ninja",
-            "sources": [ 
-                { 
-                    "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/21.12.3/src/libkdegames-21.12.3.tar.xz",
-                    "sha256": "4b2f3fb2af0866f7aba1ae679b505faeb7577b0ab50bd619ecb642c48ae0b574",
+            "sources": [
+                {
+                    "type": "archive",
+                    "url": "https://download.kde.org/stable/release-service/22.04.0/src/libkdegames-22.04.0.tar.xz",
+                    "sha256": "4dd8d80dbfd2806d420bb6efc2df64a175e8273d9ea34b9c61a0a7daae342e76",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -33,11 +33,11 @@
         {
             "name": "kbounce",
             "buildsystem": "cmake-ninja",
-            "sources": [ 
-                { 
-                    "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/21.12.3/src/kbounce-21.12.3.tar.xz",
-                    "sha256": "db6f8874877599e46c53cc538d4e676d02afd5140015f8c556957ec94290a4aa",
+            "sources": [
+                {
+                    "type": "archive",
+                    "url": "https://download.kde.org/stable/release-service/22.04.0/src/kbounce-22.04.0.tar.xz",
+                    "sha256": "49a567dacfcb488898b952b23e9e2233cd6e9ded43a89f73cdbf4fa1e40d6476",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
