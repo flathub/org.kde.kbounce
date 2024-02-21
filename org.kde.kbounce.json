@@ -19,8 +19,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.08.4/src/libkdegames-23.08.4.tar.xz",
-                    "sha256": "4a5675e50b31abde322a66192f56f5c139b6ff18bce64ed2c6277bcaeed49dec",
+                    "url": "https://download.kde.org/stable/release-service/23.08.5/src/libkdegames-23.08.5.tar.xz",
+                    "sha256": "0ac583f4327d6003782054a9ee3d51c922bcdf04577a3f7f12b3840cabf2efed",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -36,8 +36,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.08.4/src/kbounce-23.08.4.tar.xz",
-                    "sha256": "af8a08c59dc6fac23f7ad00d524b69ba951f529425a84e782903a09ae563e452",
+                    "url": "https://download.kde.org/stable/release-service/23.08.5/src/kbounce-23.08.5.tar.xz",
+                    "sha256": "f101c0bbf6ad2250b436473aaf8f65ea64512d792a69df10917cfcb940f0acfb",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
