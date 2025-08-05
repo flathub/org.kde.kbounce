@@ -12,6 +12,10 @@
         "--socket=pulseaudio",
         "--socket=wayland"
     ],
+    "cleanup": [
+        "/include",
+        "/lib/cmake"
+    ],
     "modules": [
         {
             "name": "libkdegames",
